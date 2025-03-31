@@ -1,6 +1,9 @@
 {
   "name": "shared",
   "version": "1.0.0",
+  "scripts": {
+    "install": "npm install"
+  },
   "private": true,
   "dependencies": {
     "jsonwebtoken": "^9.0.2",
